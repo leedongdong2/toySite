@@ -1,0 +1,81 @@
+@charset "UTF-8";
+
+
+
+p {
+	font-size : 1.5rem;
+}
+
+#footWarp{
+	width : 100%;
+	display : flex;
+	padding-bottom:2%; 
+}
+
+.firstBox{
+	padding-left:3%;
+	width : 25vw;	
+}
+.secondBox{
+	width : 25vw;
+}
+.thirdBox{
+	width : 25vw;
+}
+.fourthBox{
+	width : 25vw;
+
+}
+
+.footerTitle {
+	margin-top : 25px;
+	margin-bottom : 30px;
+}
+
+.fontMargin {
+	margin-top:30px;
+}
+
+.emailMargin{
+	margin-top: 10px;
+}
+
+.instaMargin {
+	margin-top : 200px;
+}
+.ppMargin {
+	margin-top : 50px;
+}
+
+.addressFont{
+	color: rgba(26, 26, 26, 0.5);
+}
+
+
+.footLink{
+	color:#000000;
+	text-decoration: none;
+}
+
+.footLink:hover {
+	color: rgba(26, 26, 26, 0.5);
+}
+
+.footLinkAbout{
+	color:#ffffff;
+	text-decoration: none;
+}
+.footLinkAbout:hover {
+	text-decoration: underline;
+}
+
+#footWarpAbout{
+	display : flex; 
+	background-color: #000000;
+	color: #ffffff;
+	padding-bottom:2%;
+}
+
+.addressFontAbout{
+	color: rgba(255, 255, 255, 0.5);
+}
